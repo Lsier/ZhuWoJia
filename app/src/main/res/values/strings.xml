@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">筑我家</string>
+    <string name="app_home">首页</string>
+    <string name="app_mine">我的</string>
+    <string name="app_circle">圈子</string>
+    <string name="app_contacts">人脉</string>
+    <string name="app_news">消息</string>
+
+    //阿里图标矢量库
+    <string name="icons">#icon-keshi; #icon-qq; #icon-weixin; #icon-bukeshi; #icon-sina; #icon-zixun; #icon-xiangyou;#icon-liaotian;#icon-liaotian;#icon-fabiaopinglun;#icon-haoyouicon;#icon-fanhui;#icon-queren</string>
+</resources>
